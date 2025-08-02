@@ -2,7 +2,7 @@
 
 I'm Rodrigo, nice to meet you!
 
-I'm a **Data Scientist** with 5+ years of experience, currently working as **Senior Data Scientist at [Bolt](https://bolt.eu)**.
+I'm a **Data Scientist** with 5+ years of experience, currently working as **Senior Data Scientist at [Bolt](https://bolt.eu/en/)**.
 
 ## About Me
 - 🎓 I have a **BSc in Statistics** from *Universidade Estadual de Campinas*, Brazil
