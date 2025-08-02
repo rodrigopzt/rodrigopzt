@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Rodrigo!
 
-<!--
-**rodrigopzt/rodrigopzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Data Scientist** with 5+ years of experience in designing, deploying, and scaling data-driven solutions.
+Currently, I work at **Bolt** as a Senior Data Scientist in the **Investment Modeling** team.
 
-Here are some ideas to get you started:
+## 💼 Professional Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Senior Data Scientist at Bolt** *(Jan 2025 – Present)*  
+- **Senior Data Scientist at iFood** *(Aug 2023 – Dec 2024)*  
+- **Data Scientist at Neon Pagamentos** *(Jan 2021 – Aug 2023)*  
+- **Data Science Intern at Elsys** *(Dec 2019 – Jan 2021)*  
+
+## 🎓 Academic Background
+
+- **BSc in Statistics** from *Universidade Estadual de Campinas*  
+
+## 💻 Tech Stack
+
+- **Languages:** Python, SQL, R, Spark (PySpark)  
+- **Tools:** Airflow, Databricks, AWS, Git, PowerBI  
+- **Focus Areas:** Optimization, Time Series Forecasting, A/B Testing, MLOps, Causal Inference
+
+## 🚀 What I'm Up To
+
+- 🌍 Living in **Estonia**, originally from **Brazil**
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-ponzetto/)
+---
+
+> *"In God we trust. All others must bring data." – W. Edwards Deming*
+
